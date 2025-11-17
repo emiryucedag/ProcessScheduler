@@ -2,7 +2,7 @@
 
 This project implements a Priority-SRTF based non-preemptive process scheduler in C. It uses the pthread library to manage I/O operations in a separate thread.
 
-##Project Features
+## Project Features
 
 Scheduler: Selects processes based on Priority (0 is highest). If priorities are equal, it uses SRTF (Shortest Remaining Time First).
 
